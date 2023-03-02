@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
   
   <br/>
 
-  <h3><b>Portfolio Template</b></h3>
+  <h3><b>Portfolio Desktop Version</b></h3>
 
 </div>
 
@@ -140,9 +140,6 @@ Run the command below from the Terminal:
 - GitHub: [@gdvl777](https://github.com/gdvl777)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvillalba777//)  
 
-👤 **Author2**
-- GitHub: [@Aminocodex](https://github.com/Aminocodex)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -169,6 +166,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SHOW YOUR SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+All your supports are welcome
+
+Feel free.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
