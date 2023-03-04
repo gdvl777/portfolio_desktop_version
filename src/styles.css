@@ -1097,12 +1097,13 @@ ul.project__lang {
     margin-left: 2%;
     line-height: 24px;
     font-size: 20px;
+    /* margin-top: 0px; */
     align-items: center;
     justify-content: center;
   }
 
   .about-me {
-    padding: 22%;
+    padding: 10%;
     margin-left: 3%;
   }
 
@@ -1125,8 +1126,8 @@ ul.project__lang {
   }
 
   .left {
-    width: 50%;
-    margin-left: 5%;
+    width: 40%;
+    margin-left: 0%;
   }
 
   .line {
