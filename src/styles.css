@@ -198,7 +198,7 @@ p.intro1 {
   padding-left: 15px;
   grid-gap: 30px;
   justify-items: center;
-  margin-left: 20%;
+  margin-left: 2%;
 }
 
 .social {
@@ -1113,7 +1113,7 @@ ul.project__lang {
   }
 
   .social {
-    margin-left: 4%;
+    margin-left: 1%;
     width: 70%;
   }
 
