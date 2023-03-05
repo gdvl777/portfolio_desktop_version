@@ -179,7 +179,8 @@ input[type="email"]::placeholder {
   top: 276px;
   color: #344563;
   margin-top: 0;
-  margin-top: -40px;
+  margin-top: -20px;
+  align-items: left;
 }
 
 p.intro1 {
@@ -210,6 +211,7 @@ ul.social {
   margin-block-start: 1px;
   margin-block-end: 1px;
   padding-inline-start: 0;
+  margin-top: revert;
 }
 
 .social-icon {
@@ -465,7 +467,7 @@ button:active {
 .about-me {
   display: flex;
   position: static;
-  width: 70%;
+  width: 40%;
   left: 0.5px;
   top: 0.5px;
   right: auto;
@@ -1096,13 +1098,16 @@ ul.project__lang {
   .about p {
     margin-left: 2%;
     line-height: 24px;
-    font-size: 20px;
+    font-size: 17px;
+    text-align: left;
+    /* margin-top: 0px; */
+    align-self: left;
     align-items: center;
     justify-content: center;
   }
 
   .about-me {
-    padding: 10%;
+    padding: 1%;
     margin-left: 3%;
   }
 
@@ -1114,6 +1119,7 @@ ul.project__lang {
   .social {
     margin-left: 1%;
     width: 70%;
+    margin-top: 100px;
   }
 
   .button-resume {
