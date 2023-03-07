@@ -98,7 +98,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo" href="https://gdvl777.github.io/portfolio_desktop_version/">Live Demo</a>
 
--- No deployed link yet
+-- <a name="live-demo" href="https://gdvl777.github.io/portfolio_desktop_version/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
